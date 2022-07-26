@@ -1,6 +1,12 @@
 {
-  "current": "Default",
+  "current": {
+    "checkout_button_color": "#18b95b",
+    "content_for_index": [
+
+    ]
+  },
   "presets": {
-    "Default": { }
+    "Default": {
+    }
   }
 }
